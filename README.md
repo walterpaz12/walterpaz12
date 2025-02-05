@@ -25,3 +25,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walterpaz12&" alt="walterpaz12" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=walterpaz12&show_icons=true&locale=en&layout=compact" alt="walterpaz12" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walterpaz12" alt="walterpaz12" /></a></p>
+
+<img src="https://raw.githubusercontent.com/walterpaz12/walterpaz12/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
